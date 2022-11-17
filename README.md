@@ -3,6 +3,7 @@
 - 🌱 I’m learning how to code with CS50x
 - 💞️ I’m a huge fan of Skyrim
 - 📫 Reach me at twitter.com/rbelizd
+- 🗣️ I can speak and understand english, portuguese and spanish
 
 
 <!---
